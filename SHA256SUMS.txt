@@ -1,0 +1,2 @@
+f1dd3857491a347f659bb7d281c8032305dff67234e995ff4e893de5e32c341c  CRM-Kraft-Desktop-Portable-0.3.1-x64.exe
+343e1abbcb21d394a4a18d54f2958c3c9e23c63c0016e73785c777403b625432  CRM-Kraft-Desktop-Setup-0.3.1-x64.exe
